@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb4BDa9f9Cf1703aB569775BF2E7dd905A11bF660",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xb4bda9f9cf1703ab569775bf2e7dd905a11bf660",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Cryptorn NFT",
+  "SYMBOL": "CTNFT",
+  "MAX_SUPPLY": 30,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/test50-v2",
+  "SHOW_BACKGROUND": true
+}
